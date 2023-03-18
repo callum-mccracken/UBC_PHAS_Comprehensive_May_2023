@@ -10,11 +10,15 @@ UBC's Site: [here](https://phas.ubc.ca/graduate-program-comprehensive-exam-guide
 
 ## Study Sessions:
 
-See scheduling.md.
+Weekly for a bit, then daily as the exam approaches.
+
+See [scheduling](https://github.com/callum-mccracken/UBC_PHAS_Comprehensive_May_2023/blob/master/scheduling.md).
+
+Here's the [overall plan](https://github.com/callum-mccracken/UBC_PHAS_Comprehensive_May_2023/blob/master/the_plan.md) of what we'll study
 
 ## Study Materials:
 
-(see me in person for copies)
+This list is taken from the UBC site, see one of us in person for copies.
 
 1. Quantum mechanics:
     - Modern Quantum Mechanics, J.J. Sakurai
