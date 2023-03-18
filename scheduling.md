@@ -1,3 +1,18 @@
+# Scheduling
+
+## Next Meeting
+
+Friday, March 24, 9am.
+
+Try to do all the Mathematical Physics & Mechanics up to Q15.
+
+Skip if you completely understand a question.
+
+Come with your solutions & points of confusion so we can talk about it.
+
+
+## Typical Availability
+
 Mondays:
 - Gabrielle: before 12 or after 3
 - Callum: before 1 or after 3
