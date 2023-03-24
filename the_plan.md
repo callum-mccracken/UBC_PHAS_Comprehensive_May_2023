@@ -18,11 +18,19 @@
 
 - Try to finish by March 24
 
+- Status: kind of finished? Skipped a bunch of questions (e.g. ). Could come back.
+
+- Left to do: 35/36/37
+
 ## Mechanics -- 45 problems
 
-- Try to finish Q15 by March 24
+- Try to finish by March 31
 
-- Try to finish completely by March 31
+- Done some of the first problems (1-6)
+
+- Goal form March 31: finish all the UC questions with diagrams (no particular reason but cuts down the number)
+
+- From Goldstein: read chapters 1-6 in particular Ch5 about rigid bodies
 
 ## Electromagnetism -- 44 problems
 
