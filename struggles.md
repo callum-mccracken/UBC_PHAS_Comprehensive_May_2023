@@ -2,13 +2,10 @@
 
 Mathematical Physics
 
-- Both: probability questions like Mathematical Physics 1-6
-- Callum: that Pauli matrix identity in Q9
-- Both: what they mean by coordinate transformation $A' = U A U^T$
-- Both: residues
-- Both: Laplace / Fourier stuff should be on the formula sheet
-- Both: skipped the integral questions
+- that Pauli matrix identity in Q9
+- residues could use some review
+- do you figure they'll make us do rawdog Laplace transforms?
 
 Mechanics:
-
+- Adiabatic invariants
 

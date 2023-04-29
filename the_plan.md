@@ -1,6 +1,6 @@
 # Study Plan
 
-1. Begin with the UC problems
+1. We started trying to break down the UC problems
     - Mathematical Physics
     - Mechanics
     - Electromagnetism
@@ -14,48 +14,19 @@
     - SKIP Atomic Physics
     - SKIP For The Experimentalist
 
-## Mathematical Physics -- 37 problems
+    There were far too many of these to properly go over, but pick a couple each week and see what you can do.
 
-- Try to finish by March 24
-
-- Status: kind of finished? Skipped a bunch of questions (e.g. ). Could come back.
-
-- Left to do: 35/36/37
-
-## Mechanics -- 45 problems
-
-- Try to finish by March 31
-
-- Done some of the first problems (1-6)
-
-- Goal form March 31: finish all the UC questions with diagrams (no particular reason but cuts down the number)
-
-- From Goldstein: read chapters 1-6 in particular Ch5 about rigid bodies
-
-## Electromagnetism -- 44 problems
-
-- Try to finish by April 7
-
-## Quantum Mechanics -- 40 problems
-
-- Try to finish by April 14
-
-## Thermodynamics -- 26 problems
-
-- Try to finish by April 21
-
-## Statistical Physics -- 22 problems
-
-- Try to finish by April 28
-
+    Instead, we should have started with A Guide to Physics Problems, but oh well.
 
 2. Go Over Past Exams
 
-    Try to do one every day.
+    We'll try to do one every day.
 
     Start from the bottom and go up.
 
-    Note: re-2020 had more questions but same length per question.
+    Note: pre-2020 had more questions but same length per question.
+
+    We'll try to simulate the two 2.25h halves by taking a subset of questions.
 
     - August 2022
     - May 2022
@@ -63,7 +34,7 @@
     - April 2021
     - September 2020
     - August 2019
-    - August 2018
+    - August 2018 --> done by May 1st
     - September 2017
     - September 2016
     - September 2015
